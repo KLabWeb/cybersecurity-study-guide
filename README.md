@@ -32,6 +32,10 @@ Two principles shape it:
 
 Calibrated for roughly **7–9 months at about 21 study hours per week**. 21 hours a week allows me to keep working while completing this plan.
 
+## Related
+
+- [Study Notes](https://github.com/KLabWeb/cybersecurity-notes) — that I make as I work through the plan
+
 ---
 
 *A living document — refined as I work through it.*
