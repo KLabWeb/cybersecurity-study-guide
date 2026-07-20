@@ -1,6 +1,6 @@
 # Application Security Engineering — Study Plan
 
-A structured, self-directed plan for transitioning from full-stack web development into an entry-level **application security (AppSec) engineer** role, in roughly 7–9 months at about 21 hours per week.
+A structured, self-directed plan for transitioning from full-stack web development into an entry-level **application security (AppSec) engineer** role, in roughly 4–5.5 months at about 35 hours per week.
 
 The full plan lives in this repository as a PDF: **[Application_Security_Study_Plan.pdf](./Study_Plan_-_Final.pdf)**.
 
@@ -17,20 +17,20 @@ Two principles shape it:
 
 | Phase | Focus | Timing |
 | --- | --- | --- |
-| 0 | Pre-Study: Foundations | Weeks 1–3 |
-| I | AppSec Intro: A Dip into Offense | Weeks 4–5 |
-| II | Web & Network Foundations | Months 1.25–2.25 |
-| III | Core Vulnerability Classes | Months 2.25–4.0 |
-| IV | Security Testing & Tooling *(earns the BSCP)* | Months 4.0–6.25 |
-| V | Cloud Security Fundamentals | Months 6.25–6.75 |
-| VI | Secure Code Review & Threat Modeling | Months 6.75–7.5 |
-| VII | CompTIA Security+ Certification | Months 7.5–8.5 |
-| VIII | Interview Preparation & Interviewing | Months 8.5–9.25 |
-| IX | Expected First Days on the Job | Months 9.25+ |
+| 0 | Pre-Study: Foundations | Weeks 1–2 |
+| I | AppSec Intro: A Dip into Offense | Weeks 2–3 |
+| II | Web & Network Foundations | Months 0.75–1.25 |
+| III | Core Vulnerability Classes | Months 1.25–2.5 |
+| IV | Security Testing & Tooling *(earns the BSCP)* | Months 2.5–3.75 |
+| V | Cloud Security Fundamentals | Months 3.75–4.0 |
+| VI | Secure Code Review & Threat Modeling | Months 4.0–4.5 |
+| VII | CompTIA Security+ Certification | Months 4.5–5.0 |
+| VIII | Interview Preparation & Interviewing | Months 5.0–5.5 |
+| IX | Expected First Days on the Job | Months 5.5+ |
 
 ## Pace
 
-Calibrated for roughly **7–9 months at about 21 study hours per week**. 21 hours a week allows me to keep working while completing this plan.
+Calibrated for roughly **4–5.5 months at about 35 study hours per week** — five focused study days a week, with about 5 months as the realistic midpoint. The compressed schedule is a deliberate choice: reaching interview-ready sooner, and into a stronger hiring window.
 
 ## Related
 
