@@ -34,9 +34,6 @@ Calibrated for roughly **4–5.5 months at about 35 study hours per week** — f
 
 ## Related
 
-- [Study Notes](https://github.com/KLabWeb/cybersecurity-notes) — Notes I am making as I work through the plan
-- [FastAPI Refresher App](https://github.com/KLabWeb/cybsecurity-fastapi-app) - Refresher app and local lab app
-
----
-
-*A living document — refined as I work through it.*
+- [Study Tracker](https://github.com/KLabWeb/cybersecurity-study-tracker) — what I am doing, for how long, and when
+- [Study Notes](https://github.com/KLabWeb/cybersecurity-notes) — notes I am making as I work through the plan
+- [Portfolio](https://github.com/KLabWeb/cybersecurity-portfolio) — the work I am doing from what I am learning
